@@ -53,7 +53,7 @@
 }
 
 @media (max-width: 700px) {
-    .sometimes-hidden-img {
+    .sometimes-hidden {
       display: none;
     }
   }
