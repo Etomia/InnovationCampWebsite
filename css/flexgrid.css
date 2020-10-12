@@ -52,4 +52,8 @@
     min-width: 500px;
 }
 
-
+@media (max-width: 600px) {
+    .sometimes-hidden-img {
+      display: none;
+    }
+  }
